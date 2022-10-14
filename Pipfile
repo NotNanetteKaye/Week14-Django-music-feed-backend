@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
-django-cors-headers = "*"
-mysql-connector-python = "==8.0.26"
 djangorestframework = "*"
+mysql-connector-python = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
